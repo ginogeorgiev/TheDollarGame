@@ -57,6 +57,10 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+# GUI Kit Casual Game
+Assets/GUI Kit Casual Game/
+Assets/GUI Kit Casual Game.meta
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
